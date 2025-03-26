@@ -1,0 +1,134 @@
+[
+	{
+		"employeeId": 1000,
+		"firstName": "James",
+		"lastName": "Smith",
+		"gender": "M",
+		"email": "james.smith@users.noreply.github.com",
+		"birthDate": "1970-07-30",
+		"joiningDate": "2008-07-26",
+		"grade": "Developer",
+		"salary": 20000
+	},
+	{
+		"employeeId": 1001,
+		"firstName": "John",
+		"lastName": "Miller",
+		"gender": "M",
+		"email": "john.miller@@users.noreply.github.com",
+		"birthDate": "1982-09-26",
+		"joiningDate": "2005-07-21",
+		"grade": "Developer",
+		"salary": 20000
+	},
+	{
+		"employeeId": 1002,
+		"firstName": "Robert",
+		"lastName": "Williams",
+		"gender": "M",
+		"email": "robert.williams@@users.noreply.github.com",
+		"birthDate": "1959-06-08",
+		"joiningDate": "1994-04-26",
+		"grade": "Developer",
+		"salary": 20000
+	},
+	{
+		"employeeId": 1003,
+		"firstName": "Angela",
+		"lastName": "Baker",
+		"gender": "F",
+		"email": "angela.baker@users.noreply.github.com",
+		"birthDate": "1977-12-03",
+		"joiningDate": "1999-04-15",
+		"grade": "Developer",
+		"salary": 20000
+	},
+	{
+		"employeeId": 1004,
+		"firstName": "Mary",
+		"lastName": "Brown",
+		"gender": "F",
+		"email": "mary.brown@users.noreply.github.com",
+		"birthDate": "1967-11-30",
+		"joiningDate": "1991-12-21",
+		"grade": "Developer",
+		"salary": 20000
+	},
+	{
+		"employeeId": 1005,
+		"firstName": "Patricia",
+		"lastName": "Moore",
+		"gender": "F",
+		"email": "patricia.moore@users.noreply.github.com",
+		"birthDate": "1959-03-08",
+		"joiningDate": "1995-06-25",
+		"grade": "Developer",
+		"salary": 20000
+	},
+	{
+		"employeeId": 1006,
+		"firstName": "David",
+		"lastName": "Hernandez",
+		"gender": "M",
+		"email": "david.hernandez@users.noreply.github.com",
+		"birthDate": "1991-08-17",
+		"joiningDate": "2017-05-14",
+		"grade": "Lead",
+		"salary": 40000
+	},
+	{
+		"employeeId": 1007,
+		"firstName": "George",
+		"lastName": "Reacher",
+		"gender": "M",
+		"email": "george.reacher@users.noreply.github.com",
+		"birthDate": "1985-04-19",
+		"joiningDate": "2007-07-29",
+		"grade": "Lead",
+		"salary": 40000
+	},
+	{
+		"employeeId": 1006,
+		"firstName": "Sandra",
+		"lastName": "Lopez",
+		"gender": "F",
+		"email": "sandra.lopez@users.noreply.github.com",
+		"birthDate": "1991-08-17",
+		"joiningDate": "2017-05-14",
+		"grade": "Lead",
+		"salary": 40000
+	},
+	{
+		"employeeId": 1007,
+		"firstName": "Michelle",
+		"lastName": "Clark",
+		"gender": "F",
+		"email": "michelle.clark@users.noreply.github.com",
+		"birthDate": "1985-04-19",
+		"joiningDate": "2007-07-29",
+		"grade": "Lead",
+		"salary": 40000
+	},
+	{
+		"employeeId": 1008,
+		"firstName": "Larry",
+		"lastName": "Young",
+		"gender": "M",
+		"email": "larry.young@users.noreply.github.com",
+		"birthDate": "1991-03-27",
+		"joiningDate": "2017-03-02",
+		"grade": "Architect",
+		"salary": 60000
+	},
+	{
+		"employeeId": 1008,
+		"firstName": "Brenda",
+		"lastName": "Hall",
+		"gender": "F",
+		"email": "brenda.hall@users.noreply.github.com",
+		"birthDate": "1991-03-27",
+		"joiningDate": "2017-03-02",
+		"grade": "Architect",
+		"salary": 60000
+	}
+]
