@@ -12,6 +12,4 @@ public class DateComparator implements Comparator<Employee> {
 		return o1.getJoiningDate().compareTo(o2.getJoiningDate());
 	}
 
-
-
 }
