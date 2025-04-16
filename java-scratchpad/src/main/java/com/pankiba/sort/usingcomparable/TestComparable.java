@@ -5,6 +5,7 @@ import java.util.Collections;
 import java.util.List;
 
 public class TestComparable {
+
 	public static void main(String[] args) {
 
 		List<Person> personList = new ArrayList<Person>();
